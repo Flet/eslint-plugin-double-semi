@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-double-semi",
+  "version": "1.0.0",
+  "author": "Dan Flettre <fletd01@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/flet/eslint-plugin-double-semi/issues"
+  },
+  "devDependencies": {
+    "eslint": "^0.24.1",
+    "eslint-tester": "^0.8.2",
+    "mocha": "^2.2.5",
+    "standard": "*",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/flet/eslint-plugin-double-semi",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flet/eslint-plugin-double-semi.git"
+  },
+  "scripts": {
+    "test": "standard && mocha test/"
+  },
+  "dependencies": {
+    "requireindex": "^1.1.0"
+  }
+}
