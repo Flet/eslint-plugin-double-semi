@@ -38,7 +38,7 @@ module.exports = function (context) {
       return false
     }
 
-    return nextToken.value === ';'
+    return isSemicolon(nextToken)
   }
 
   /**
