@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-double-semi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Dan Flettre <fletd01@yahoo.com>",
   "bugs": {
     "url": "https://github.com/flet/eslint-plugin-double-semi/issues"
